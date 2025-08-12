@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap-test-organization-jk/nodejs-aupbianm:ae6e12ff933ed6656c5836d86fc374ccca31822d@sha256:473e2bc0f96fae2fe9d58b2d76a5dca93e3624f568af05e83e115e43bee2d7f4
+        - image: quay.io/rhtap-test-organization-jk/nodejs-aupbianm:1c8befea75ed2022e3799783bafd3eb9725534ff@sha256:86753814968e951da3c96a1e6298bff2f5ee074bb8be7e23f799bd4e9e81f307
           name: container-image
